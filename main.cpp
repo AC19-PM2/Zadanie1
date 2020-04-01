@@ -1,4 +1,4 @@
-//Свешников Артем 19-ПМ-2 Вариант 15
+//Sveshnikov Artem 19-PM-2 Variant 15
 #include <iostream>
 #include <fstream>
 #include <cmath>
